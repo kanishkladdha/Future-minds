@@ -1,4 +1,4 @@
-# Weather-Prediction-using-Machine-Learning-Python-
+# Weather-Prediction-using-Python-
 This repository contains a Python project that performs weather prediction using machine learning techniques. The project utilizes the pandas library to read and manipulate weather data from a CSV file and implements a Ridge regression model for making predictions. The goal of this project is to forecast the maximum temperature (temp_max) for future dates based on historical weather data.
 
 Dataset:
