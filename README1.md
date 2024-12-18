@@ -4,4 +4,4 @@ We got 27% as the accuracy based on the dataset, as we see the corelation betwee
 
 # Implementation
 
-- ▶️ Raindfall Prediction](https://nbviewer.jupyter.org/github/Santoshraju1118/Rainfall-Prediction-using-machine-learning/blob/master/Rainfall%20Prediction.ipynb) - predict `Rafinfall` by giving `Parameters`.
+- ▶️ Raindfall Prediction](https://nbviewer.jupyter.org/github/Rainfall-Prediction-using-machine-learning/blob/master/Rainfall%20Prediction.ipynb) - predict `Rafinfall` by giving `Parameters`.
